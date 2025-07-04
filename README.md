@@ -1,0 +1,1 @@
+# appraisal_type_mapping
